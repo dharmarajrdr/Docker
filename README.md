@@ -1,6 +1,6 @@
+![](./.assets/logo.png)
+
 # Docker
-
-
 
 > Problem Statement: the same piece of code runs fine on my laptop but fails on yours. Sound familiar?
 
